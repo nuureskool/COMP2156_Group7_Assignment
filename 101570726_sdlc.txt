@@ -1,1 +1,4 @@
 The Software Development Life Cycle (SDLC) includes planning, designing, developing, testing, and maintaining software. Each stage is important to ensure high-quality and reliable systems.
+
+
+DevOps improves the SDLC by encouraging collaboration between developers and operations teams. Automation tools help speed up testing and deployment. This reduces delays and improves system stability. It also gives developers an opportunity to easily and seamlessly store and supplement their projects.
