@@ -1,1 +1,12 @@
 The COMP2156 - DevOps for System Administration course covers the procedures and protocols required to increase productivity as a DevOps engineer.
+
+
+The curriculum focuses on building skills in the following areas:
+
+ - Tools: Ansible, Git, and Infrastructure as Code (IaC).
+
+ - Architecture: Monolithic vs. Microservices and Cloud computing.
+
+ - Automation: Using JSON, YAML, and YANG for network automation.
+
+ - Process: Monitoring code quality, CI/CD optimization, and DevSecOps integration.
