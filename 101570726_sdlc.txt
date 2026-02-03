@@ -1,0 +1,1 @@
+The Software Development Life Cycle (SDLC) includes planning, designing, developing, testing, and maintaining software. Each stage is important to ensure high-quality and reliable systems.
