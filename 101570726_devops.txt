@@ -13,3 +13,6 @@ The curriculum focuses on building skills in the following areas:
 
 
 So far, I have found the COMP2156 DevOps course to be very interesting and engaging. The topics are presented in a clear way, which has made the course easy to follow. I enjoy learning about version control, automation, and system management. Overall, the course has been a positive learning experience for me.
+
+
+Thanks for reading.

@@ -5,3 +5,6 @@ DevOps improves the SDLC by encouraging collaboration between developers and ope
 
 
 Git plays an important role in the software development life cycle by helping teams manage and track code changes. Using version control and branching, developers can work on features without affecting the main project, which improves collaboration and reduces errors. Git also supports code reviews through pull requests, helping improve quality and communication within teams. If issues occur, previous versions can easily be restored. In addition, Git works well with automation tools for testing and deployment. By using Git throughout the SDLC, teams can maintain organized workflows and deliver reliable software more efficiently.
+
+
+Thanks for reading.
