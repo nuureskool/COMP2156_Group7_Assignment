@@ -1,0 +1,5 @@
+This course is called Dev Ops
+In non technical terms
+We learn about the basics of 
+Working as a team when creating
+and working on software!
