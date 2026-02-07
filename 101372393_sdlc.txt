@@ -7,3 +7,7 @@ It helps to improve a lot of things
 Such as efficiency
 and quality, as well as,
 faster feedback loops.
+
+Also its good to note, while I 
+somewhat had prior knowledge of Devops
+I have learned a lot in this class
