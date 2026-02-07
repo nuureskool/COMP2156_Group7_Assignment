@@ -3,3 +3,7 @@ the SDLC
 Software Development Life Cycle
 provides a structured framework
 
+It helps to improve a lot of things
+Such as efficiency
+and quality as well as
+faster feedback loops
