@@ -1,0 +1,9 @@
+Comp 2156 DevOps for system administration is a course that introduces the principles of DevOps
+in mordern IT enviroments. The course focuses on bridging the gap between software development
+and system administration
+
+in this course students learn how DevOps helps organizations deliver software faster and more
+reliably. Topics include Git and (CI/CD), and infrastructure automation.
+
+COMP 2156 also emphasizes hands-on learning through practical assignment projects.
+By working with real-world tools and workflows students gain experience to prepare them for DevOps roles.
