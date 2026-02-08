@@ -1,2 +1,4 @@
 The software development life cycle (SDLC) is the process that teams follow when building software.
 
+Throughout the course, students learn the core ideas behind DevOps such as automation, continuous intergration,
+and continuous deployment. Tools like Git are used to manage code changes and teamwork, while CI/CD pipelines help automate testing and deployment.
