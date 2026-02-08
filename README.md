@@ -14,3 +14,10 @@ Awais Cyubahiro
 Benjamin Cyubahiro
 
 ### Brandon Brown (101447430)
+
+## Group Member Contributions
+
+### Brandon Brown (101447430)
+- Created individual assignment files
+-Added DevOps and SDLC documentation
+
