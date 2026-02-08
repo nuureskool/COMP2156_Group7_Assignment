@@ -7,4 +7,4 @@ reliably. Topics include Git and (CI/CD), and infrastructure automation.
 
 COMP 2156 also emphasizes hands-on learning through practical assignment projects.
 By working with real-world tools and workflows students gain experience to prepare them for DevOps roles.
-The skills learned by students will help them i future.
+The skills learned by students will help them in future.
