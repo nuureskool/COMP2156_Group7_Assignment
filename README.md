@@ -17,13 +17,12 @@ Each group member worked on their own branch and created individual files relate
 | Name           | Student ID | Branch Name        |
 |----------------|------------|--------------------|
 | Daanyal Haroon | 101570726  | 101570726-Dani     |
-| Nuure Osman    |            |                    |
-| Brandon Brown  |            |                    |
-| Farhan Nur     |            |                    |
+| Nuure Osman    | 101372393  | 101372393-Nuure    |
+| Brandon Brown  | 101447430  | 101447430-Brandon  |
+| Farhan Nur     | 101513037  | 101513037-Farhan   |
 
 
 ## Technologies Used
-- Git
 - GitHub
 - Git Bash
 - Windows OS
