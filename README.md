@@ -4,19 +4,17 @@
 
 \## Course Information
 
-Course: COMP2156 – DevOps for System Administration  
+\*\*Course:\*\* COMP2156 – DevOps for System Administration  
 
-Institution: George Brown College  
+\*\*Institution:\*\* George Brown College  
 
-Semester: Winter 2026  
+\*\*Semester:\*\* Winter 2026  
 
 
 
 \## Project Description
 
-This repository contains our group assignment for COMP2156.
-
-
+This repository contains the group assignment for COMP2156.  
 
 Each member worked on their own branch and created individual files related to:
 
@@ -30,11 +28,11 @@ Each member worked on their own branch and created individual files related to:
 
 \## Group Member
 
-Name: Awais Chaudry  
+\*\*Name:\*\* Awais Chaudry  
 
-Student ID: 101464805  
+\*\*Student ID:\*\* 101464805  
 
-Branch: 101464805-Awais  
+\*\*Branch:\*\* 101464805-Awais  
 
 
 
@@ -50,7 +48,7 @@ On my branch, I created:
 
 
 
-These files contain my individual work related to the assignment topics.
+These files contain my individual work for the assignment.
 
 
 
