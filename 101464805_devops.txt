@@ -1,0 +1,3 @@
+DevOps is mainly about automation and teamwork. Instead of developers and IT operations working separately, DevOps brings them together so things can move faster and smoother.
+
+In this course, we see how tools like Git, CI/CD pipelines, and YAML files help automate testing and deployments. This reduces mistakes and makes the whole process more organized and efficient.
