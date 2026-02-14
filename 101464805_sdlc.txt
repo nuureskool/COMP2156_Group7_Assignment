@@ -1,3 +1,14 @@
 SDLC which stands for Software Development Life Cycle, is basically the step by step process teams follow when building software. It helps make sure everything is planned properly, developed correctly, tested carefully, and maintained over time.
 
 Each stage matters because skipping steps can lead to bugs or system failures later. Following SDLC keeps projects organized and reduces confusion.
+
+The main stages of SDLC usually include:
+- Planning
+- Requirements gathering
+- Design
+- Development
+- Testing
+- Deployment
+- Maintenance
+
+Each stage helps keep the project organized and reduces unexpected issues.
