@@ -34,6 +34,16 @@ A workflow was created inside:
 
 The CI pipeline runs automatically when changes are pushed to main.
 
+## Group Members
+
+| Name | Student ID | Branch |
+|------|------------|--------|
+| Awais | 101464805 | 101464805-Awais |
+| Dani | 101570726 | 101570726-Dani |
+| Brandon | 101447430 | 101447430-Brandon |
+| Nuure | 101372393 | 101372393-Nuure |
+
+
 ## Individual Contribution – Awais Chaudry (101464805)
 Branch: 101464805-Awais
 
