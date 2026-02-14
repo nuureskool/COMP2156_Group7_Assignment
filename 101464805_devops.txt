@@ -4,4 +4,4 @@ In this course, we see how tools like Git, CI/CD pipelines, and YAML files help 
 
 Personally, I think DevOps makes system administration more efficient because everything becomes trackable and organized using version control.
 
-Thank for reading. 
+Thank you for reading. 
