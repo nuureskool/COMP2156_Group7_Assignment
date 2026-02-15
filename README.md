@@ -20,6 +20,8 @@ Each group member worked on their own branch and created individual files relate
 | Nuure Osman    | 101372393  | 101372393-Nuure    |
 | Brandon Brown  | 101447430  | 101447430-Brandon  |
 | Farhan Nur     | 101513037  | 101513037-Farhan   |
+| Awais Chaudry  | 101464805  | 101464805-Awais    |
+                                      
 
 
 ## Technologies Used
