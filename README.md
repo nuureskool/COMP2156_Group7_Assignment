@@ -1,4 +1,3 @@
-
 # COMP2156 Group Assignment – DevOps for System Administration
 
 ## Course Information
