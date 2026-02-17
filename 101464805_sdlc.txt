@@ -1,0 +1,20 @@
+SDLC which stands for Software Development Life Cycle, is basically the step by step process teams follow when building software. It helps make sure everything is planned properly, developed correctly, tested carefully, and maintained over time.
+
+Each stage matters because skipping steps can lead to bugs or system failures later. Following SDLC keeps projects organized and reduces confusion.
+
+The main stages of SDLC usually include:
+- Planning
+- Requirements gathering
+- Design
+- Development
+- Testing
+- Deployment
+- Maintenance
+
+Each stage helps keep the project organized and reduces unexpected issues.
+
+DevOps improves the SDLC process by making development and operations work together instead of separately. With tools like Git and CI/CD pipelines, updates can be tested and deployed faster while keeping everything organized.
+
+In my opinion, combining DevOps with SDLC makes software development more efficient and structured.
+
+Thank you for reading.
