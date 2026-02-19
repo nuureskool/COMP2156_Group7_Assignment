@@ -1,3 +1,5 @@
 DevOps is the workflow of multiple programming streams.
 
 CI/CD is Continuous Intergration and Continuous Delivery.
+
+DevOps automation tools streamline the software development lifecycle by automating repetitive tasks across planning, coding, building, testing, deploying, and monitoring phases. 
