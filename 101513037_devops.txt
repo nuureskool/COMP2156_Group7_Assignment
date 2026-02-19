@@ -1,2 +1,3 @@
 DevOps is the workflow of multiple programming streams.
 
+CI/CD is Continuous Intergration and Continuous Delivery.
