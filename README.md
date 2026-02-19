@@ -44,3 +44,15 @@ cd COMP2156_Group7_Assignment
 
 
 
+Group 7 – COMP2156 Assignment
+
+Name: Farhan Nur
+Student ID: 101513037
+Branch: 101513037-FarhanNur
+
+Files Created:
+- 101513037_gb.txt
+- 101513037_devops.txt
+- 101513037_sdlc.txt
+
+Total Commits: 11
