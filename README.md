@@ -1,5 +1,3 @@
-# COMP2156 Group 7 Assignment
-
 ## Course Information
 - **Course Code:** COMP2156
 - **Course Name:** DevOps
@@ -15,8 +13,8 @@ Each group member works on their own branch, creates required files, makes multi
 
 | Name           | Student ID | Branch Name        |
 |----------------|------------|--------------------|
-| Daanyal Haroon | 101570726  | 101570726-Dani     |
 | Nuure Osman    | 101372393  | 101372393-Nuure    |
+| Daanyal Haroon | 101570726  | 101570726-Dani     |
 | Brandon Brown  | 101447430  | 101447430-Brandon  |
 | Farhan Nur     | 101513037  | 101513037-Farhan   |
 | Awais Chaudry  | 101464805  | 101464805-Awais    |
@@ -45,6 +43,7 @@ All files are merged into the `main` branch after review.
 
 ## Continuous Integration
 This repository uses GitHub Actions (or another free CI tool) to demonstrate basic CI integration as required by the assignment.
+
 
 ## Submission Notes
 - All work is completed before the deadline
