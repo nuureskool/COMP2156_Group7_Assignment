@@ -1,0 +1,6 @@
+SDLC is the software devlopment life cycle.
+
+For example, development , testing , deployment and more!
+
+CI in SDLC refers to the integration of automated building, testing, and merging processes within the software development phases
+

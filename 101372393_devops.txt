@@ -1,0 +1,11 @@
+This course is called Dev Ops
+In non technical terms
+We learn about the basics of 
+Working as a team when creating
+and working on software!
+
+CI/CD 
+is Continuos Integration and
+Continuous Delivery/Deployment
+and can be used with Cloud infrastructure
+to boost scalabilty and flexibility!
