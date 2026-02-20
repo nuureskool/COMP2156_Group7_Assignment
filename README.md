@@ -1,68 +1,57 @@
-# COMP2156_Group7_Assignment
-COMP2156 Group Assignment
-
-## course Com2156 - DevOps for system Administration
-
-## Repository Purpose
-This repository contains the group assignment for COMP2156
-
-## Group members
-101570726-Dani Haroon
-101513037-Farhan Nur
-101372393-Nuure Osman
-Awais Cyubahiro
-Benjamin Cyubahiro
-
-### Brandon Brown (101447430)
-
-## Group Member Contributions
-
-### Brandon Brown (101447430)
-- Created individual assignment files
--Added DevOps and SDLC documentation
-# COMP2156 Group Assignment – DevOps for System Administration
-
 ## Course Information
-- Course: COMP2156 – DevOps for System Administration
-- Institution: George Brown College
-- Semester: Winter 2026
+- **Course Code:** COMP2156
+- **Course Name:** DevOps
+- **Institution:** George Brown College
 
-## Project Description
-This repository contains the group assignment for the COMP2156 course.
+## Assignment Description
+This repository is created as part of the COMP2156 DevOps group assignment.  
+The objective of this project is to demonstrate practical knowledge of Git, GitHub collaboration, branching strategies, pull requests, and CI integration.
 
-The project demonstrates the use of Git, branching, collaboration, and version control in a team environment.
-
-Each group member worked on their own branch and created individual files related to George Brown College, DevOps, and the Software Development Life Cycle.
+Each group member works on their own branch, creates required files, makes multiple commits from a local machine, and merges changes into the main branch using pull requests.
 
 ## Group Members
 
 | Name           | Student ID | Branch Name        |
 |----------------|------------|--------------------|
-| Daanyal Haroon | 101570726  | 101570726-Dani     |
 | Nuure Osman    | 101372393  | 101372393-Nuure    |
+| Daanyal Haroon | 101570726  | 101570726-Dani     |
 | Brandon Brown  | 101447430  | 101447430-Brandon  |
 | Farhan Nur     | 101513037  | 101513037-Farhan   |
 | Awais Chaudry  | 101464805  | 101464805-Awais    |
-                                      
-
-
-## Technologies Used
-- GitHub
-- Git Bash
-- Windows OS
 
 ## Repository Structure
-Each member created the following files on their branch:
-- StudentID_gb.txt
-- StudentID_devops.txt
-- StudentID_sdlc.txt
+Each group member creates the following three files in their own branch:
 
-## How to Clone This Repository
+- `StudentID_gb.txt` – Information about George Brown College  
+- `StudentID_devops.txt` – Information about COMP2156 DevOps course  
+- `StudentID_sdlc.txt` – Importance of DevOps in the Software Development Life Cycle  
 
-```bash
-git clone <https://github.com/nuureskool/COMP2156_Group7_Assignment.git>
-cd COMP2156_Group7_Assignment
+All files are merged into the `main` branch after review.
+
+## Git Workflow
+- One repository owner manages merges
+- Each member works on a separate branch named: StudentID-Name
+- All commits are made locally (no direct GitHub edits)
+- Pull Requests are used for merging into `main`
+- Merge conflicts are resolved by the repository owner
+
+## Tools & Technologies Used
+- Git
+- GitHub
+- GitHub Pull Requests
+- GitHub Actions (CI)
+
+## Continuous Integration
+This repository uses GitHub Actions (or another free CI tool) to demonstrate basic CI integration as required by the assignment.
 
 
+## Submission Notes
+- All work is completed before the deadline
+- Commit history is used to verify individual contributions
+- Screenshots of commits, branches, and CI are included in the final submission
 
+---
 
+**Instructor Note:**  
+No commits or file uploads were performed directly on the GitHub website.  
+All changes were made from local machines and merged via pull requests.
