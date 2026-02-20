@@ -1,5 +1,5 @@
 
-# COMP2156 Group Assignment – DevOps for System Administration
+# COMP2156 Group Assignment – DevOps for System Administration - Dani Haroon
 
 ## Course Information
 - Course: COMP2156 – DevOps for System Administration
