@@ -1,3 +1,8 @@
+Name: Nuure Osman
+Student ID: 101372393
+Course: COMP2156 – DevOps for System Administration
+Institution: George Brown College
+
 George Brown College
 it is the college I attend
 I hope to graduate from here
