@@ -50,6 +50,12 @@ This repository uses GitHub Actions (or another free CI tool) to demonstrate bas
 - Commit history is used to verify individual contributions
 - Screenshots of commits, branches, and CI are included in the final submission
 
+## How to Clone This Repository
+
+```bash
+git clone https://github.com/nuureskool/COMP2156_Group7_Assignment.git
+cd COMP2156_Group7_Assignment
+
 ---
 
 **Instructor Note:**  
